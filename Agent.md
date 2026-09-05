@@ -160,6 +160,7 @@ flutter doctor                        # 환경 점검
 | 2026-09-05 | 프로젝트 폴더를 `C:\Users\khgg0\orca\claude-test` Git 저장소로 확정. 구체적인 개발은 orca ade에서 진행. |
 | 2026-09-05 | 개발 환경 세팅 완료 (Flutter, Android SDK, 에뮬레이터 Pixel_8, VS Code, Firebase CLI). 한글 경로 폴더(`OneDrive\Desktop\학원어플`)는 Android 빌드 불가로 폐기. |
 | 2026-09-05 | 선생님용 웹 UI 1차 완성 (`app/`). 가짜 데이터(메모리)로 화면 8개 동작. Firebase 연결은 3주차 계획대로 진행. 추가 라이브러리 없음. |
+| 2026-09-05 | 학생용 모바일 형태 결정: **Android는 앱(APK→Play), iPhone은 1차 웹(PWA), 2차에 클라우드 Mac 빌드로 iOS 앱.** Windows만 있어 iOS 빌드 불가가 근거. 상세는 `docs/모바일-개발기획서.md`. |
 
 ## 10. 현재 코드 상태와 검증 규칙
 
