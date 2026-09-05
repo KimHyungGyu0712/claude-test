@@ -1,0 +1,15 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# 에디터
+.vscode/
+.idea/
+*.iml
+
+# Firebase 비밀 파일
+**/google-services.json
+**/GoogleService-Info.plist
+**/firebase_options.dart
+.firebase/
+*.log
